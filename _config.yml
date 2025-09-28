@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jason Cheung"
+name                     : &name "Jiajun Zhang"
 description              : &description "personal description"
 url                      : https://Jiajun0425.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Jiajun0425/Jiajun0425.github.io"
 author:
   # Biographic information
   avatar           : "jason.png"
-  name             : "Jason Cheung"
+  name             : "Jiajun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "First year of M.S."
   location         : "China Beijing"
